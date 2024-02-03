@@ -3,7 +3,7 @@
 
   **Welcome to the Travelopia. Embark on your next adventure effortlessly with our travel website – where every destination is a click away.**
 
- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zskm3nxxlu7n5c221yif.png)
+ ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rer13bcsu8eme9gtaehz.png)
 
 ## Navigation Bar
 
@@ -13,11 +13,11 @@
 
  This section consist of title along with "Click Here" button.
  
- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jx603gcusaqpatbp63ui.png)
+ ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o8qce4cax4tbupj9kbcx.png)
 
- Once user clicked on "Click Here" button it will show pop-up showing alert "Hello, World!".
+ Once user clicked on "Click Here" button it will show pop-up showing alert "Hello, World!". To close the pop-up user have to click on "Close" button.
 
- ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l9bm5ntaszqog5v27wrt.png)
+ ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9gftwqx6d577iz53lbhq.png)
 
 ## Footer
 
